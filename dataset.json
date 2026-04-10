@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Fresno, California with a population of over 542k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Fresno, California, US",
+  "export_job_id": "d50e0cdb-c45b-4421-98dd-24db54ab6962",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 130506,
+  "location_name": "Fresno",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-fresno-california-us-sample-130506",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/130506/beamstation_130506_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 155,
+  "sample_sha256": "e73d83c7f11050fb2a1de07eb560296411bfe760717b840036e2ecb2ab023d6e",
+  "sample_size_bytes": 569816,
+  "total_records": 1556,
+  "updated_at": "2026-04-07T13:41:56.930910+00:00"
+}
