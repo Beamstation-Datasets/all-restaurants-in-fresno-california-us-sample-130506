@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Fresno, California with a population of over 542k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Fresno, California, US",
-  "export_job_id": "de5221fb-c189-4272-91a4-85e6b9201704",
+  "export_job_id": "995483b0-8f6f-4089-9f8f-f3079f9426a4",
   "github_org": "Beamstation-Datasets",
   "id_short": 130506,
   "location_name": "Fresno",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-fresno-california-us-sample-130506",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/130506/beamstation_130506_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 159,
-  "sample_sha256": "b0a32c4caf2b2aa8719ea959f940d961883ceca4e771104e0ebad75c7f30d4ad",
-  "sample_size_bytes": 456549,
-  "total_records": 1593,
-  "updated_at": "2026-04-29T02:19:29.640344+00:00"
+  "sample_records": 162,
+  "sample_sha256": "aa2222f603d74cc28e8d9681ca1eac7e93a3159ee904a47bdfa8c8522693b45d",
+  "sample_size_bytes": 598202,
+  "total_records": 1623,
+  "updated_at": "2026-05-08T22:12:47.237970+00:00"
 }
