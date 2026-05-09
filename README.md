@@ -1,6 +1,6 @@
 # All Restaurants in Fresno, California, US
 
-> Free BeamStation sample export with 159 rows and masked direct-contact fields.
+> Free BeamStation sample export with 162 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `130506` |
 | Location | Fresno |
 | Category | Restaurants |
-| Full dataset size | 1,593 records |
-| Free sample size | 159 records (9.98%) |
-| Last export | 2026-04-29T02:19:29.640344+00:00 |
+| Full dataset size | 1,623 records |
+| Free sample size | 162 records (9.98%) |
+| Last export | 2026-05-08T22:12:47.237970+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fresno-california-us-sample-130506/releases/download/sample-latest/beamstation_130506_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
